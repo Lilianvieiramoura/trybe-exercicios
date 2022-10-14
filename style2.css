@@ -1,0 +1,25 @@
+h1 {
+    font-family: sans-serif;
+}
+
+p {
+    font-weight:600;
+    font-size: 24px;
+}
+
+body {
+    font-size: 16px;
+}
+
+.pink {
+    background-color: pink;
+}
+
+.red {
+    background-color: red;
+}
+
+.black {
+    background-color: black;
+    color: white;
+}
