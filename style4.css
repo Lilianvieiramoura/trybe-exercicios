@@ -5,7 +5,12 @@
 }
 
 body {
-    background-color: rgba(234, 83, 133, 0.87);
+    background-image: url(https://img.freepik.com/premium-vector/purple-web-development-background_76964-167.jpg?w=2000);
+    background-position: center top;
+    background-repeat: no-repeat;
+    color: white;
+  
+   
 }
 
 .tam1 {
@@ -18,4 +23,14 @@ body {
 
 .tam3 {
     font-size: 23px;
+}
+
+.img {
+    border-radius: 55px;
+    
+}
+
+div {
+    text-align: center;
+    
 }
