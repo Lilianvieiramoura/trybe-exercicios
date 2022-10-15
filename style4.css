@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Fuzzy+Bubbles&family=Inter:wght@400;900&display=swap');
+
+.name, .description {
+    font-family: 'Fuzzy Bubbles', cursive;;
+}
+
+body {
+    background-color: rgba(234, 83, 133, 0.87);
+}
+
