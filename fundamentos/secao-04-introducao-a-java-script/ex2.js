@@ -5,4 +5,4 @@ for (let i =0; i < numbers.length; i += 1) {
     resultado += numbers[i];
 }
 
-console.log(resultado);
+console.log(resultado); //soma de todos oa valores contido no array
