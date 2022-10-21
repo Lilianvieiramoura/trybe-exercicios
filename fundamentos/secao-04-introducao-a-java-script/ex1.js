@@ -1,5 +1,7 @@
 let numbers = [5, 9, 3, 19, 70, 8, 100, 2, 35, 27];
    
 for (let i = 0; i < numbers.length; i++) { //percorrer um array
-    console.log(numbers[i]);
-}
+    console.log(numbers[i]); 
+} 
+
+
