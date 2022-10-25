@@ -1,4 +1,4 @@
-const angulos = 4;
+const number = 4;
 
 if(angulos > 0) {
   console.log('positive');
