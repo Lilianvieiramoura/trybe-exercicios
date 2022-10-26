@@ -3,3 +3,4 @@ for (let value of food) {
   console.log(value);
 };
 //resultado: hamburguer, bife, acarajé;
+
